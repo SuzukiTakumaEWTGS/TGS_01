@@ -1,0 +1,17 @@
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/obj/Debug/Assembly-CSharp.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/UnityEngine.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/UnityEditor.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Mono.Cecil.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Unity.DataContract.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/suzuki/Desktop/TGS_01/TGS01/Temp/bin/Debug/Mono.Cecil.Mdb.dll
