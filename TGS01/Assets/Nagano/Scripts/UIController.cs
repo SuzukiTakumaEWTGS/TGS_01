@@ -49,7 +49,7 @@ public class UIController : MonoBehaviour
     {
         foreach (Transform i in GameObject.Find("Canvas").transform)
         {
-            mUISet.Add(i.gameObject);
+            mUISet.Add(i.FindChild("UIParent").gameObject);
         }
     }
 
